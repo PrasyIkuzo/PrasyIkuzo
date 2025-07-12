@@ -69,5 +69,5 @@
 
 -----
 
-## Thank You Friend
-Thank You For Visiting! 😊
+## ✨️ Thank You Friend
+Thank You For Visiting. 😊
