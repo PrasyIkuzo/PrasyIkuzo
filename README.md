@@ -12,24 +12,24 @@
 </div>
 <p><center>
 
- -----
+___________________________________________________________________
  
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
------
+___________________________________________________________________
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&locale=en" alt="PrasyIkuzo" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TnYtCoder&theme=vue-dark&hide_border=true)
 
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
-
-yaya
 
 - 👋 Hi I’m Prasy Ikuzo Real
 - 👀 I’m Interested In Ethical Hacking
 - 💫 I’m Currently Learning A Lot Of Things
 - 💞️ I’m Looking To Collaborate On Google
 
------
+___________________________________________________________________
 
 ## 🔎 LANGUAGES
 </p>
