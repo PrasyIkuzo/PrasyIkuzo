@@ -26,6 +26,11 @@
             src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
 
+___________________________________________________________________
+
+<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
+<p align="center">
+ 
 - 👋 Hi I’m Prasy Ikuzo 🗿
 - 👀 I’m Interested In Ethical Hacking
 - 💫 I’m Currently Learning A Lot Of Things
