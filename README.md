@@ -20,11 +20,10 @@
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
             src="https://img.shields.io/badge/Tiktok-grey?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
-    <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Saweria-yellow?style=for-the-badge&logoColor=white&logo=saweria"
-            alt="Saweria"></a>
+    <a href="https://github.com/PrasyIkuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github" alt="Github"></a>
     <a href="https://twitter.com/prasyikuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+            src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 
 ___________________________________________________________________
 
