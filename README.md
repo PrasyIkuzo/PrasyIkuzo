@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Prasy+Ikuzo;JATENG+CYBER+COMMUNITY;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-<h3><b><i>🏆 GITHUB STATISTICS 🏆</i></b></h3>
+<h3><b><i>🏆 GitHub Trophies 🏆</i></b></h3>
 <div>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
 </a>
