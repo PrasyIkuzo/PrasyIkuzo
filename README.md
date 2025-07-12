@@ -1,6 +1,11 @@
 ![logo](https://h.top4top.io/s_3213vlp7b0.jpg)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Prasy+Ikuzo;JATENG+CYBER+COMMUNITY;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
+
+___________________________________________________________________
+
+<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
+
 ___________________________________________________________________
 
 <h3><b><i>🏆 GITHUB STATISTICS 🏆</i></b></h3>
