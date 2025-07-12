@@ -5,12 +5,10 @@
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Prasy+Ikuzo;JATENG+CYBER+COMMUNITY;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-<h3><b><i>🏆 GitHub Trophies 🏆</i></b></h3>
-<div>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
-</a>
-</div>
-<p><center>
+- 👋 Hi I’m Prasy Ikuzo 🗿
+- 👀 I’m Interested In Ethical Hacking
+- 💫 I’m Currently Learning A Lot Of Things
+- 💞️ I’m Looking To Collaborate On Google
 
 ___________________________________________________________________
 
@@ -24,11 +22,13 @@ ___________________________________________________________________
 
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
-- 👋 Hi I’m Prasy Ikuzo 🗿
-- 👀 I’m Interested In Ethical Hacking
-- 💫 I’m Currently Learning A Lot Of Things
-- 💞️ I’m Looking To Collaborate On Google
-
+<h3><b><i>🏆 GitHub Trophies 🏆</i></b></h3>
+<div>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+</a>
+</div>
+<p><center>
+ 
 ___________________________________________________________________
 
 ## 🔎 LANGUAGES
