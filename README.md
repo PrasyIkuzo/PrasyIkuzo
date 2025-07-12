@@ -24,7 +24,7 @@
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
     <a href="https://twitter.com/prasyikuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+            src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 
 ___________________________________________________________________
 
