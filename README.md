@@ -22,7 +22,7 @@
     <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"></a>
-            <a href="https://tiktok.com/prasy4ever" target="_blank"><img
+            <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
             src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
 
