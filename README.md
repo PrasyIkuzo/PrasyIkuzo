@@ -9,6 +9,13 @@ ___________________________________________________________________
 </a>
 </div>
 <p><center>
+
+<img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
+</p></center>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrasyIkuzo&layout=compact&theme=chartreuse-dark" />
+<p align="center"> 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
  
 ___________________________________________________________________
 
