@@ -12,7 +12,7 @@
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
     <a href="https://www.linkedin.com/in/tahmidrayat" target="_blank"><img
-            src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+            src="https://img.shields.io/badge/Twitter-gray?style=for-the-badge&logo=twitter" alt="Twitter"></a>
     <a href="https://youtube.com/@prasyikuzo" target="_blank"><img
             src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white&logo=youtube"
             alt="Youtube"></a>
