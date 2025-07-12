@@ -5,6 +5,26 @@
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Prasy+Ikuzo;JATENG+CYBER+COMMUNITY;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
+<a href="https://instagram.com/tahmid.rayat" target="_blank"><img
+
+<!-- Social Badges-->
+<hr />
+<p align=center>
+    <a href="https://t.me/UserPrasy" target="_blank"><img
+            src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
+            alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/tahmidrayat" target="_blank"><img
+            src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+    <a href="https://youtube.com/@prasyikuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white&logo=youtube"
+            alt="Youtube"></a>
+    <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"></a>
+
+<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
+<p align="center">
+
 - 👋 Hi I’m Prasy Ikuzo 🗿
 - 👀 I’m Interested In Ethical Hacking
 - 💫 I’m Currently Learning A Lot Of Things
