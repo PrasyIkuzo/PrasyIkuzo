@@ -15,11 +15,11 @@
 
 -----
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=whxitte) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&locale=en" alt="PrasyIkuzo" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=whxitte)
 
-[![](https://visitcount.itsvg.in/api?id=TnYtCoder&icon=2&color=8)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TnYtCoder&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 👋 Hi, I’m Prasy Ikuzo Real
+- 👋 Hi I’m Prasy Ikuzo Real
 - 👀 I’m Interested In Ethical Hacking
 - 💫 I’m Currently Learning A Lot Of Things
 - 💞️ I’m Looking To Collaborate On Google
