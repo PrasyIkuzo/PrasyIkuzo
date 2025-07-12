@@ -18,9 +18,9 @@
 
 -----
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=whxitte)
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TnYtCoder&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+yaya
 
 - 👋 Hi I’m Prasy Ikuzo Real
 - 👀 I’m Interested In Ethical Hacking
