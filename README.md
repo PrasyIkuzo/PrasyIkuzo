@@ -17,6 +17,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=whxitte) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&locale=en" alt="PrasyIkuzo" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=TnYtCoder&icon=2&color=8)](https://visitcount.itsvg.in)
+
 - 👋 Hi, I’m Prasy Ikuzo Real
 - 👀 I’m Interested In Ethical Hacking
 - 💫 I’m Currently Learning A Lot Of Things
