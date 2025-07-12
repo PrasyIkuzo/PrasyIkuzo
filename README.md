@@ -1,5 +1,8 @@
 <h1 align="center">Prasy Ikuzo</h1>
 
+<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png">
+<p align="center">
+ 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Prasy+Ikuzo;JATENG+CYBER+COMMUNITY;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 GITHUB TROPHIES 🏆</i></b></h3>
