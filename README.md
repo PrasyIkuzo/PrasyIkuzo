@@ -18,7 +18,7 @@
             src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white&logo=youtube"
             alt="Youtube"></a>
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
-            src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
+            src="https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
     <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
