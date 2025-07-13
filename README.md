@@ -1,4 +1,4 @@
-<h1 align="center">Prasy Ikuzo</h1>
+<h1 align="center">PrasyIkuzo</h1>
 
 <img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png">
 <p align="center">
