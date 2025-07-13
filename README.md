@@ -35,8 +35,6 @@ ___________________________________________________________________
 </div>
 <p><center>
 
-![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
-
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 ___________________________________________________________________
@@ -59,6 +57,8 @@ ___________________________________________________________________
 </p>
 
 <a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"> </p>
+
+![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
 
 ## 🔎 Languages
 </p>
