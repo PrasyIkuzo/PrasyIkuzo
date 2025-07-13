@@ -5,7 +5,7 @@
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-# [+] Buy Me A Coffe
+# 🧸 Buy Me A Coffe
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
@@ -50,7 +50,7 @@ ___________________________________________________________________
  
 - 👋 Hi, I’m Prasy Ikuzo 🗿
 - 👀 I’m Interested In Ethical Hacking
-- 🧸 I’m Currently Learning A Lot Of Things
+- 💫 I’m Currently Learning A Lot Of Things
 - 💞️ I’m Looking To Collaborate On Google
 
 ___________________________________________________________________
