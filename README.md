@@ -31,7 +31,7 @@ ___________________________________________________________________
 <img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
 <p align="center">
  
-- 👋 Hi I’m Prasy Ikuzo 🗿
+- 👋 Hi, I’m Prasy Ikuzo 🗿
 - 👀 I’m Interested In Ethical Hacking
 - 💫 I’m Currently Learning A Lot Of Things
 - 💞️ I’m Looking To Collaborate On Google
