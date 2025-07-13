@@ -8,22 +8,23 @@
 <!-- Social Badges-->
 <hr />
 <p align=center>
-    <a href="https://t.me/UserPrasy" target="_blank"><img
-            src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
-            alt="Telegram"></a>
-    <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
-            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
-            alt="Instagram"></a>
     <a href="https://youtube.com/@prasyikuzo" target="_blank"><img
             src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white&logo=youtube"
             alt="Youtube"></a>
+    <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"></a>
+    <a href="https://t.me/UserPrasy" target="_blank"><img
+            src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
+            alt="Telegram"></a>
+    <a href="https://discord.gg/swd8nVaS3w" target="_blank"><img
+            src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logoColor=white&logo=discord"
+            alt="Discord"></a>
+    <a href="https://github.com/PrasyIkuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github" alt="Github"></a>
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
             src="https://img.shields.io/badge/Tiktok-grey?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
-    <a href="https://github.com/PrasyIkuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github" alt="Github"></a>
-    <a href="https://twitter.com/prasyikuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 
 ___________________________________________________________________
 
