@@ -44,7 +44,7 @@ ___________________________________________________________________
 
 # 📊 GitHub Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&locale=en" alt="PrasyIkuzo" /></p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" />
 </p>
