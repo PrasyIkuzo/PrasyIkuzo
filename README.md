@@ -103,4 +103,4 @@ ___________________________________________________________________
 ## ✨️ Thank You
 Thank You For Visiting. 😊
 
-![picture](https://raw.githubusercontent.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
