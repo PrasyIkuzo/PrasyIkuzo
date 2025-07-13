@@ -26,6 +26,8 @@
             src="https://img.shields.io/badge/Tiktok-grey?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
 
+<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
+
 ___________________________________________________________________
 
 <img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
@@ -37,8 +39,6 @@ ___________________________________________________________________
 - 💞️ I’m Looking To Collaborate On Google
 
 ___________________________________________________________________
-
-<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 # 📊 GitHub Stats :
 
@@ -97,5 +97,5 @@ ___________________________________________________________________
 
 -----
 
-## ✨️ Thank You Friend
+## ✨️ Thank You
 Thank You For Visiting. 😊
