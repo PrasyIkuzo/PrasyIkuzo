@@ -26,6 +26,8 @@
             src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
 
+___________________________________________________________________
+
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 ___________________________________________________________________
@@ -94,8 +96,6 @@ ___________________________________________________________________
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <br/><br/>
 </p>
-
------
 
 ## ✨️ Thank You
 Thank You For Visiting. 😊
