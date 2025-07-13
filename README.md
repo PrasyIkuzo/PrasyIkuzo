@@ -33,7 +33,7 @@ ___________________________________________________________________
  
 - 👋 Hi, I’m Prasy Ikuzo 🗿
 - 👀 I’m Interested In Ethical Hacking
-- 💫 I’m Currently Learning A Lot Of Things
+- 🧸 I’m Currently Learning A Lot Of Things
 - 💞️ I’m Looking To Collaborate On Google
 
 ___________________________________________________________________
