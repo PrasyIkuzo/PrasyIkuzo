@@ -21,9 +21,9 @@
             src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logoColor=white&logo=discord"
             alt="Discord"></a>
     <a href="https://github.com/PrasyIkuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github" alt="Github"></a>
+            src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github" alt="Github"></a>
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
-            src="https://img.shields.io/badge/Tiktok-grey?style=for-the-badge&logoColor=white&logo=tiktok"
+            src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
