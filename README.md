@@ -52,7 +52,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# 📊 GitHub Stats :
+# 📊 GitHub Stats
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true" />
 
@@ -63,7 +63,7 @@ ___________________________________________________________________
 
 ![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
 
-## 🔎 LANGUAGES :
+## 🔎 LANGUAGES
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -98,7 +98,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-<h3 align="left">🛠️ TECH STACK :</h3>
+<h3 align="left">🛠️ TECH STACK</h3>
 <p align="left">
 <kbd>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
