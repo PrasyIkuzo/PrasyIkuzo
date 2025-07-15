@@ -1,10 +1,10 @@
-<h1 align="center">Prasy Ikuzo</h1>
+**<h1 align="center">Prasy Ikuzo</h1>**
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png)
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-# 💖 Support Me
+# 💖 **Support Me**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
@@ -33,8 +33,7 @@
 
 ___________________________________________________________________
 
-<h3><b><i>🏆 GITHUB TROPHIES 🏆</i></b></h3>
-<div>
+# **🏆 GitHub Trophies**
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
 </a>
 </div>
@@ -45,14 +44,14 @@ ___________________________________________________________________
 <img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
 <p align="center">
  
-- 👋 Hi, I’m Prasy Ikuzo 🗿
-- 👀 I’m Interested In Ethical Hacking
-- 💫 I’m Currently Learning A Lot Of Things
-- 💞️ I’m Looking To Collaborate On Google
+- 👋 **Hi, I’m Prasy Ikuzo 🗿**
+- 👀 **I’m Interested In Ethical Hacking**
+- 💫 **I’m Currently Learning A Lot Of Things**
+- 💞️ **I’m Looking To Collaborate On Google**
 
 ___________________________________________________________________
 
-# 📊 GitHub Stats
+# 📊 **GitHub Stats**
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true" />
 
@@ -63,7 +62,7 @@ ___________________________________________________________________
 
 ![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
 
-## 🔎 LANGUAGES
+## 🔎 **LANGUAGES**
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -106,7 +105,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-<h3 align="left">🛠️ TECH STACK</h3>
+**<h3 align="left">🛠️ TECH STACK</h3>**
 <p align="left">
 <kbd>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -627,7 +626,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## ✨️ Thank You
-Thank You For Visiting. 😊
+## ✨️ **Thank You**
+**Thank You For Visiting. 😊**
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
