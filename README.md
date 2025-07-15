@@ -27,9 +27,9 @@
     <a href="https://discord.gg/swd8nVaS3w" target="_blank"><img
             src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logoColor=white&logo=discord"
             alt="Discord"></a>
-    <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
-            src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
-            alt="Tiktok"></a>
+    <a href="https://x.com/prasyikuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logoColor=white&logo=X"
+            alt="Twitter"></a>
 
 ___________________________________________________________________
 
