@@ -12,18 +12,18 @@
 
 ___________________________________________________________________
 
-## 💖 **Support Me**
-<a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
-            src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
-            alt="Saweria"></a>
-[![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
-
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.jpg)
 
 - 👋 **Hi, I’m Prasy Ikuzo 🗿**
 - 👀 **I’m Interested In Ethical Hacking**
 - 💫 **I’m Currently Learning A Lot Of Things**
 - 🍻 **I’m Looking To Collaborate On Google**
+
+## 💖 **Support Me**
+<a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
+            src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
+            alt="Saweria"></a>
+[![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
 
 ___________________________________________________________________
 
