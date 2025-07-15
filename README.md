@@ -1,11 +1,10 @@
 <h1 align="center">Prasy Ikuzo</h1>
 
-<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png">
-<p align="center">
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png)
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-# 🧸 Buy Me A Coffe :
+# 🧸 Buy Me A Coffe
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
