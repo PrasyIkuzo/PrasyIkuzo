@@ -41,9 +41,8 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-<img src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg">
-<p align="center">
- 
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg)
+
 - 👋 **Hi, I’m Prasy Ikuzo 🗿**
 - 👀 **I’m Interested In Ethical Hacking**
 - 💫 **I’m Currently Learning A Lot Of Things**
@@ -51,16 +50,17 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
+
 # 📊 **GitHub Stats**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true" />
+![PrasyIkuzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true)
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" />
-</p>
+![PrasyIkuzo Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical)
 
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"> </p>
+![PrasyIkuzo](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
 
-![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
+___________________________________________________________________
 
 ## 🔎 **LANGUAGES**
 </p>
