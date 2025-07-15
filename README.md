@@ -4,6 +4,13 @@
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.jpg)
+
+- 👋 **Hi, I’m Prasy Ikuzo 🗿**
+- 👀 **I’m Interested In Ethical Hacking**
+- 💫 **I’m Currently Learning A Lot Of Things**
+- 💞️ **I’m Looking To Collaborate On Google**
+
 # 💖 **Support Me**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
@@ -41,15 +48,6 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg)
-
-- 👋 **Hi, I’m Prasy Ikuzo 🗿**
-- 👀 **I’m Interested In Ethical Hacking**
-- 💫 **I’m Currently Learning A Lot Of Things**
-- 💞️ **I’m Looking To Collaborate On Google**
-
-___________________________________________________________________
-
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/prasy.gif)
 
 # 📊 **GitHub Stats**
@@ -61,6 +59,8 @@ ___________________________________________________________________
 ![PrasyIkuzo](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
 
 ___________________________________________________________________
+
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/tux.svg)
 
 ## 🔎 **LANGUAGES**
 </p>
