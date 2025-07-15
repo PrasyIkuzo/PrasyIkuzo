@@ -630,4 +630,4 @@ ___________________________________________________________________
 ## ✨️ Thank You
 Thank You For Visiting. 😊
 
-![picture](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
