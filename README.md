@@ -624,7 +624,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## 😊 **Thank You**
-**Thank You For Visiting. ✨️**
+## ✨️ **Thank You**
+**Thank You For Visiting.**
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
