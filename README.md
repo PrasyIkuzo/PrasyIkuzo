@@ -12,8 +12,6 @@
 
 ___________________________________________________________________
 
-[![](https://img.shields.io/static/v1?label=SPONSOR&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/PrasyIkuzo)
-
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.jpg)
 
 - 👋 **Hi, I’m Prasy Ikuzo 🗿**
