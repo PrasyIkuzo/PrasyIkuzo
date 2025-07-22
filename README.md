@@ -1,10 +1,10 @@
-**<h1 align="center">Prasy Ikuzo</h1>**
+# <img src="/Media/hello.gif" width="30px"> **Hi I'm Prasy Starboy**
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.png)
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-## **🏆 GitHub Trophies 🏆**
+# <img src="/Media/tropy.gif?raw=true" width="50px"> **GitHub Trophies** <img src="/Media/tropy.gif?raw=true" width="50px">
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
 </a>
 </div>
@@ -14,10 +14,10 @@ ___________________________________________________________________
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
 
-- 👋 **Hi, I’m Prasy Ikuzo 🗿**
-- 👀 **I’m Interested In Ethical Hacking**
-- 💫 **I’m Currently Learning A Lot Of Things**
-- 🍻 **I’m Looking To Collaborate On Google**
+> [!WARNING]  
+> - 👀 **I’m Interested In Ethical Hacking**
+> - 💫 **I’m Currently Learning A Lot Of Things**
+> - 🍻 **I’m Looking To Collaborate On Google**
 
 ## 💖 **Support Me**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
@@ -624,7 +624,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## ✨️ **Thank You**
-**Thank You For Visiting.**
+# <img src="/Media/sparkles.gif" width="30px"> **Thank You** <img src="/Media/sparkles.gif" width="30px">
+**Thank you for visiting.** 😊
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
