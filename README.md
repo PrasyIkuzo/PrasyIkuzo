@@ -1,6 +1,6 @@
 **<h1 align="center">Prasy Ikuzo</h1>**
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.png)
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.png)
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/PrasyIkuzo.jpg)
+![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
 
 - 👋 **Hi, I’m Prasy Ikuzo 🗿**
 - 👀 **I’m Interested In Ethical Hacking**
