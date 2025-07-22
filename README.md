@@ -1,6 +1,6 @@
-# <img src="/Media/hello.gif" width="30px"> **Hi I'm Prasy Starboy**
+# <img src="/Media/hello.gif" width="30px"> **Hello I'm Prasy Starboy**
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.png)
+![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.png)
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyIkuzo;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
+![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
 
 > [!WARNING]  
 > - 👀 **I’m Interested In Ethical Hacking**
@@ -52,11 +52,11 @@ ___________________________________________________________________
 
 # 📊 **GitHub Stats**
 
-![PrasyIkuzo GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true)
+![Prasy Starboy GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasyIkuzo&show_icons=true&theme=radical&count_private=true)
 
-![PrasyIkuzo Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical)
+![Prasy Starboy Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical)
 
-![PrasyIkuzo](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
+![Prasy Starboy](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
 
 ___________________________________________________________________
 
