@@ -627,4 +627,4 @@ ___________________________________________________________________
 # <img src="/Media/sparkles.gif" width="30px"> **Thank You** <img src="/Media/sparkles.gif" width="30px">
 **Thank you for visiting.** 😊
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
