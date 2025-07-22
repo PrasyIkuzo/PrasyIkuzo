@@ -1,4 +1,4 @@
-# <img src="/Media/hello.gif" width="30px"> **Hello I'm Prasy Starboy**
+# <img src="/Media/hello.gif" width="30px"> **Hi I'm Prasy Starboy**
 
 ![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.png)
  
@@ -15,9 +15,9 @@ ___________________________________________________________________
 ![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
 
 > [!WARNING]  
-> - <img src="/Media/star.gif" width="20px"> **I’m Interested In Ethical Hacking**
-> - <img src="/Media/star.gif" width="20px"> **I’m Currently Learning A Lot Of Things**
-> - <img src="/Media/star.gif" width="20px"> **I’m Looking To Collaborate On Google**
+> - **I’m Interested In Ethical Hacking** <img src="/Media/star.gif" width="20px">
+> - **I’m Currently Learning A Lot Of Things** <img src="/Media/star.gif" width="20px">
+> - **I’m Looking To Collaborate On Google** <img src="/Media/star.gif" width="20px">
 
 # 💖 **Support Me**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
