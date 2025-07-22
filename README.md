@@ -14,6 +14,8 @@ ___________________________________________________________________
 
 ![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
 
+<p align="center">
+ 
 - 👀 **I’m Interested In Ethical Hacking** <img src="/Media/star.gif" width="20px">
 - 💫 **I’m Currently Learning A Lot Of Things** <img src="/Media/star.gif" width="20px">
 - 🍻 **I’m Looking To Collaborate On Google** <img src="/Media/star.gif" width="20px">
