@@ -15,9 +15,9 @@ ___________________________________________________________________
 ![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
 
 > [!WARNING]  
-> - 👀 **I’m Interested In Ethical Hacking**
-> - 💫 **I’m Currently Learning A Lot Of Things**
-> - 🍻 **I’m Looking To Collaborate On Google**
+> - <img src="/Media/star.gif" width="30px"> **I’m Interested In Ethical Hacking**
+> - <img src="/Media/star.gif" width="30px"> **I’m Currently Learning A Lot Of Things**
+> - <img src="/Media/star.gif" width="30px"> **I’m Looking To Collaborate On Google**
 
 # 💖 **Support Me**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
