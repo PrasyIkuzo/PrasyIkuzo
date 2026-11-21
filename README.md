@@ -60,6 +60,18 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
+## Technologies I work with
+
+<img align="right" alt="Tux at a Linux workstation" width="400" src="https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/prasyikuzo-linux-stack.webp" />
+
+My daily setup runs entirely on Linux. I stick to tools that stay predictable when things get complicated :
+
+On Android, I write Kotlin and Jetpack Compose for the UI, with AndroidX Media3 and ExoPlayer handling background playback sessions without dropping audio. On the backend, I use Python with FastAPI and AsyncIO for APIs and background tasks, plus Node.js for smaller scrapers and web utilities. Data stays in SQLite and Room for local offline storage, with Redis when caching speed matters. Everything runs in Docker containers behind Cloudflare, deployed through GitHub Actions.
+
+<br clear="right"/>
+
+___________________________________________________________________
+
 # 🔎 **Languages**
 </p>
 <p align="center">
