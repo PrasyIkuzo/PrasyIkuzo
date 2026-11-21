@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/PrasyIkuzo.jpg)
+![Prasy Starboy](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/prasy/Image/Prasy%20Starboy.png)
 
 > [!WARNING]  
 > - **I’m Interested In Ethical Hacking** <img src="/Media/star.gif" width="20px">
@@ -36,7 +36,7 @@ ___________________________________________________________________
     <a href="https://youtube.com/@prasyikuzo" target="_blank"><img
             src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white&logo=youtube"
             alt="Youtube"></a>
-    <a href="https://t.me/UserPrasy" target="_blank"><img
+    <a href="https://t.me/UserPrasyReal" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
     <a href="https://github.com/PrasyIkuzo" target="_blank"><img
@@ -594,18 +594,6 @@ ___________________________________________________________________
         srcset="https://skillicons.dev/icons?i=linux"
       />
       <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=arch"
-      />
-      <img src="https://skillicons.dev/icons?i=arch&theme=light" alt="icons" />
     </picture>
   </a>
 </kbd>
